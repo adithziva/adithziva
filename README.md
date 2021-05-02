@@ -32,3 +32,6 @@
 [linkedin]: https://www.linkedin.com/in/adith-ziva-ba3194211
 [whatsapp]: https://wa.me/+916282943771
 
+<p align="center">
+<a href="https://wa.me/+916282943771"><img title="IMG" src="img/2.gif" width="10" height="10"></a>
+</p>
