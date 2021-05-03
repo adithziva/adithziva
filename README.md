@@ -10,7 +10,7 @@
 
 ***Oops, I am Ziva living in planet earth 🌎. Spending time doing some small project. This is my personal GitHub page.Nowadays started spending more time with my github page..***
 
-<p align="center">
+<p align="cente">
 <a href="https://github.com/adithziva"><img title="Github" src="https://img.shields.io/badge/BLVCK-HACKER-brightgreen?style=for-the-badge&logo=github"></a>
 <a href="https://youtube.com/channel/UCba0x-GTsHDPmJpAUWQ9UtQ"><img title="YouTube" src="https://img.shields.io/badge/YouTube-BLVCK HACKER-red?style=for-the-badge&logo=Youtube"></a>
 <a href="https://instagram.com/mr_ziva_"><img title="instagram" src="https://img.shields.io/badge/InstaGram-chat on-brightgreen?style=for-the-badge&logo=instagram"></a>
