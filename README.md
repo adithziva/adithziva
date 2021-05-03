@@ -33,8 +33,8 @@
 [whatsapp]: https://wa.me/+916282943771
 
 <p align="center">
+<a href="https://wa.me/+916282943771"><img title="IMG" src="img/1.gif" width="30" height="30"></a>
 <a href="https://wa.me/+916282943771"><img title="IMG" src="img/2.gif" width="30" height="30"></a>
-<a href="https://wa.me/+916282943771"><img title="IMG" src="img/3.gif" width="30" height="30"></a>
-<a href="https://wa.me/+916282943771"><img title="IMG" src="img/2.gif" width="30" height="30"></a>
-<a href="https://wa.me/+916282943771"><img title="IMG" src="img/2.gif" width="30" height="30"></a>
+<a href="https://wa.me/+916282943771"><img title="IMG" src="img/6.gif" width="30" height="30"></a>
+<a href="https://wa.me/+916282943771"><img title="IMG" src="img/8.gif" width="30" height="30"></a>
 </p>
