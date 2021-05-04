@@ -4,7 +4,6 @@
 </p>
 <p align="center">
 <a href="http://github.com/adithziva"><img title="IMG" src="img/22.gif" width="1000" height="170"></a>
-<img src="https://raw.githubusercontent.com/vercel/zsh-theme/master/img.png?v=2">
 </p>
 
 <h3 align="center">SHORT ABOUT ME</h3>
