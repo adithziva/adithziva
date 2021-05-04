@@ -1,7 +1,3 @@
-<p align="center">
-<a href="https://github.com/adithziva"><img title="stats" src="https://github-readme-stats.vercel.app/api?username=adithziva&count_private=true&show_icons=true&title_color=fff&icon_color=00ffbf&text_color=9f9f9f&bg_color=151515"></a>
-</p>
-
 ### Hi Techie's 👨‍💻
 <p align="center">
 <a href="https://github.com/adithziva"><img title="Made in kerala" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
