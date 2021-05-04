@@ -3,7 +3,7 @@
 <a href="https://github.com/adithziva"><img title="Made in kerala" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="http://github.com/adithziva"><img title="IMG" src="img/22.gif" width="500" height="250"></a>
+<a href="http://github.com/adithziva"><img title="IMG" src="img/22.gif" width="250" height="125"></a>
 </p>
 
 <h3 align="center">SHORT ABOUT ME</h3>
