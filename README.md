@@ -17,8 +17,8 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/adithziva"><img title="Github" src="https://github-readme-stats.vercel.app/api?username=adithziva&count_private=true&show_icons=true&theme=radical"></a>
-<a href="https://github.com/adithziva"><img title="Github" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithziva&show_icons=true&theme=radical"></a>
+<a href="https://github.com/adithziva"><img title="Github" src="https://github-readme-stats.vercel.app/api?username=adithziva&count_private=true&show_icons=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"></a>
+<a href="https://github.com/adithziva"><img title="Github" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithziva&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=ff"></a>
 <a href="https://github.com/noob-hackers/grabcam"><img title="grabcam" src="https://github-readme-stats.vercel.app/api/pin/?username=adithziva&repo=Blvckbox&theme=radical"></a>
 <a href="https://github.com/noob-hackers/mrphish"><img title="mrphish" src="https://github-readme-stats.vercel.app/api/pin/?username=adithziva&repo=wifidos&theme=highcontrast"></a>
 <a href="https://github.com/noob-hackers/kalimux"><img title="kalimux" src="https://github-readme-stats.vercel.app/api/pin/?username=adithziva&repo=seekerauto&theme=vision-friendly-dark"></a>
@@ -32,3 +32,7 @@
 <a href="https://www.linkedin.com/in/adith-ziva-ba3194211"><img title="IMG" src="img/6.gif" width="30" height="30"></a>
 <a href="http://blvcksec.ml"><img title="IMG" src="img/8.gif" width="30" height="30"></a>
 </p>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adithziva&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=adithziva&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
