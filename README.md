@@ -15,8 +15,11 @@
 <a href="https://youtube.com/channel/UCba0x-GTsHDPmJpAUWQ9UtQ"><img title="YouTube" src="https://img.shields.io/badge/YouTube-BLVCK HACKER-red?style=for-the-badge&logo=Youtube"></a>
 <a href="https://instagram.com/mr_ziva_"><img title="instagram" src="https://img.shields.io/badge/InstaGram-chat on-brightgreen?style=for-the-badge&logo=instagram"></a>
 </p>
+
+<p align="center">
 <a href="https://github.com/adithziva"><img title="Github" src="https://github-readme-stats.vercel.app/api?username=adithziva&count_private=true&show_icons=true&theme=radical"></a>
 <a href="https://github.com/adithziva"><img title="Github" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithziva&show_icons=true&theme=radical"></a>
+</p>
 
 <h3 align="center">LOOK UP ME ON</h3>
 
