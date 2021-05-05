@@ -12,7 +12,7 @@
 
 <p align="center">
 <a href="https://github.com/adithziva"><img title="Github" src="https://img.shields.io/badge/GITHUB-BLVCK-lightgrey?style=for-the-badge&logo=github"></a>
-<a href="https://youtube.com/channel/UCba0x-GTsHDPmJpAUWQ9UtQ"><img title="YouTube" src="https://img.shields.io/badge/-BLVCK HACKER-blueviolet?style=for-the-badge&logo=Youtube"></a>
+<a href="https://youtube.com/channel/UCba0x-GTsHDPmJpAUWQ9UtQ"><img title="YouTube" src="https://img.shields.io/badge/-BLVCK HACKER-000000?style=for-the-badge&logo=Youtube"></a>
 <a href="https://instagram.com/mr_ziva_"><img title="instagram" src="https://img.shields.io/badge/InstaGram-chat on-critical?style=for-the-badge&logo=instagram"></a>
 </p>
 
