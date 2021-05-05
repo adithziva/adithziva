@@ -40,5 +40,5 @@
 </p>
 
 <p>
-<h4 align="center">© Copyright reserved Dezyn by ziva</h4>	
+<p align="center">© Copyright reserved Dezyn by ziva</p>	
 </p>
