@@ -40,6 +40,6 @@
 </p>
 
 <p>
-<p align="center">© Copyright reserved Dezyn by <a href="https://instagram.com/mr_ziva_">Ziva</a>
+<p align="center"><b>© Copyright reserved Dezyn by <a href="https://instagram.com/mr_ziva_">Ziva</a></b>
 </p>	
 </p>
