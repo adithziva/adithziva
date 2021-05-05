@@ -20,7 +20,7 @@
 
 <h3 align="center">SKILL & TOOL'S</h3>
 <p align="center">
-<a href="https://github.com/adithziva"><img title="stats" src="https://github-readme-streak-stats.herokuapp.com/?user=adithziva&theme=merko&count_private=true&show_icons=true&title_color=fff&icon_color=00ffbf&text_color=9f9f9f&bg_color=000000&border_color=00ffbf"></a>
+<a href="https://github.com/adithziva"><img title="1stats" src="https://github-readme-streak-stats.herokuapp.com/?user=adithziva&theme=merko"></a>
 <a href="https://github.com/adithziva"><img title="stats" src="https://github-readme-stats.vercel.app/api?username=adithziva&count_private=true&show_icons=true&title_color=fff&icon_color=00ffbf&text_color=9f9f9f&bg_color=000000&border_color=00ffbf"></a>
 <a href="https://github.com/adithziva/Blvckbox"><img title="Blvckbox" src="https://github-readme-stats.vercel.app/api/pin/?username=adithziva&repo=Blvckbox&show_icons=true&title_color=ffff&icon_color=00ffbf&text_color=9f9f9f&bg_color=000000&border_color=00ffbf"></a>
 <a href="https://github.com/adithziva/wifidos"><img title="wifidos" src="https://github-readme-stats.vercel.app/api/pin/?username=adithziva&repo=wifidos&&show_icons=true&title_color=ffff&icon_color=00ffbf&text_color=9f9f9f&bg_color=000000&border_color=00ffbf"></a>
