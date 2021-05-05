@@ -21,10 +21,13 @@
 <h3 align="center">SKILL & TOOL'S</h3>
 <p align="center">
 
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=adithziva&theme=merko)](https://github.com/adithziva/adithziva)
+[![adithziva github streak](https://github-readme-streak-stats.herokuapp.com/?user=adithziva&theme=merko)](https://github.com/adithziva/adithziva)
 <a href="https://github.com/adithziva"><img title="stats" src="https://github-readme-stats.vercel.app/api?username=adithziva&count_private=true&show_icons=true&title_color=fff&icon_color=00ffbf&text_color=9f9f9f&bg_color=000000&border_color=00ffbf"></a>
 <a href="https://github.com/adithziva/Blvckbox"><img title="Blvckbox" src="https://github-readme-stats.vercel.app/api/pin/?username=adithziva&repo=Blvckbox&show_icons=true&title_color=ffff&icon_color=00ffbf&text_color=9f9f9f&bg_color=000000&border_color=00ffbf"></a><a href="https://github.com/adithziva/wifidos"><img title="wifidos" src="https://github-readme-stats.vercel.app/api/pin/?username=adithziva&repo=wifidos&&show_icons=true&title_color=ffff&icon_color=00ffbf&text_color=9f9f9f&bg_color=000000&border_color=00ffbf"></a>
 <a href="https://github.com/adithziva/seekerauto"><img title="seekerauto" src="https://github-readme-stats.vercel.app/api/pin/?username=adithziva&repo=seekerauto&show_icons=true&title_color=ffff&icon_color=00ffbf&text_color=9f9f9f&bg_color=000000&border_color=00ffbf"></a>
+<a href="https://github.com/adithziva"><img title="language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithziva&show_icons=true&bg_color=50,ffffff,000000&title_color=000000&text_color=ffffff&border_color=00ffbf"></a>
+</p>
+<p align="center">
 <a href="https://github.com/adithziva"><img title="language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithziva&show_icons=true&bg_color=50,ffffff,000000&title_color=000000&text_color=ffffff&border_color=00ffbf"></a>
 </p>
 
