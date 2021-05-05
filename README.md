@@ -39,4 +39,6 @@
 <a href="http://blvcksec.ml"><img title="IMG" src="img/8.gif" width="30" height="30"></a>
 </p>
 
-<h3 align="center">LOOK UP ME ON</h3>
+<p>
+<h4 align="center">© Copyright reserved Dezyn by ziva</h4>	
+</p>
