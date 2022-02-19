@@ -1,6 +1,6 @@
 ### Hi Techie's 👨‍💻
 <p align="center">
-<a href="https://github.com/adithziva"><img title="Made in kerala" src="https://img.shields.io/badge/MADE%20IN-KERALA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+<a href="https://github.com/adithziva"><img title="Made in kerala" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="http://github.com/adithziva"><img title="IMG" src="img/22.gif" width="250" height="125"></a>
@@ -8,7 +8,7 @@
 
 <h3 align="center">SHORT ABOUT ME</h3>
 
-***Oops, I am Ziva living in planet earth 🌎. Spending time doing some small project. This is my personal GitHub page.Nowadays started spending more time with my github page..***
+***Oops, I am Ziva living in planet earth 🌎. Spending time doing some small project...***
 
 <p align="center">
 <a href="https://github.com/adithziva"><img title="Github" src="https://img.shields.io/badge/GITHUB-BLVCK FOX-99ffd6?style=for-the-badge&logo=github"></a>
