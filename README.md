@@ -11,7 +11,7 @@
 
 <h3 align="center">SHORT ABOUT ME</h3>
 
-***Oops, I am Ziva living in planet earth 🌎. Spending time doing some small project...***
+_*I'm Ziva, Spending time doing some small project...*_
 
 <p align="center">
 <a href="https://github.com/adithziva"><img title="Github" src="https://img.shields.io/badge/GITHUB-BLVCK FOX-99ffd6?style=for-the-badge&logo=github"></a>
