@@ -5,7 +5,7 @@
 </p>
 <h1 align="center">
  इंडिया
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/in.gif" width="25px"</h1>
+<img src="img/in2.gif" width="30px" ></h1>
 
 <p align="center">
 <a href="http://github.com/adithziva"><img title="IMG" src="img/mr.gif" ></a>
