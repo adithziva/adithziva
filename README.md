@@ -20,7 +20,7 @@
 
 <h3 align="center">SHORT ABOUT ME</h3>
 
-_*I'm Poki, Spending time doing some small project...*_
+_*I'm Ziva, Spending time doing some small project...*_
 
 <p align="center">
 <a href="https://github.com/adithziva"><img title="Github" src="https://img.shields.io/badge/GITHUB-GIT CAT-99ffd6?style=for-the-badge&logo=github"></a>
